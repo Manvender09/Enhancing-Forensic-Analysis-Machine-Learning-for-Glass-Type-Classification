@@ -28,6 +28,6 @@ The KNN model outperformed the Decision Tree model, making it a more reliable ch
 ## Files in the Repository
 
 - Jupyter notebook containing the code and analysis.
-- Detailed project report.
+
 
 
